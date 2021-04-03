@@ -46,8 +46,4 @@ public class Hr {
 	}
 
 
-	public Hr() {
-		// TODO Auto-generated constructor stub
-	}
-
 }
